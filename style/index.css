@@ -1,0 +1,37 @@
+body {
+    align-items: center;
+    background: #c3c3c3;
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+}
+
+.title {
+    color: #000;
+    font: 38px 'Verdana';
+    margin-top: 100px;
+}
+
+.deputaLinha {
+    border-bottom: 1px solid;
+    display: flex;
+    margin-bottom: 0px;
+    padding: 30px;
+    width: 730px;
+}
+
+.deputaDados {
+    color: #000;
+    padding-left: 15px;
+    font: 15px 'Verdana';
+}
+
+.deputaDadosBold {
+    font-weight: 900;
+}
+
+.deputaFoto {
+    height: 120px;
+    width: 90px;
+}
+
